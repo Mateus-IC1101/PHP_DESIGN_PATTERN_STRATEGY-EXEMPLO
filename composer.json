@@ -1,4 +1,11 @@
 {
+  "authors": [
+    {
+      "name": "Mateus Araujo",
+      "email": "mateus.dolglasgames@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/mateus-araujo-75845b259/"
+    }
+  ],
   "autoload": {
     "psr-4": {
       "Teste\\DesignPattern\\": "src/"
